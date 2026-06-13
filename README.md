@@ -88,3 +88,10 @@ Many students find it difficult to organize study materials, manage their study 
 
 The **AI Study Assistant Mobile App** is an intelligent learning platform designed to help students organize study materials, generate personalized study plans, summarize notes, track academic progress, and prepare efficiently for examinations. By integrating artificial intelligence with user-centered design principles, the application aims to create a more productive, engaging, and personalized learning experience.
 
+
+
+
+LUCID CHART SHAREABLE LINK
+
+
+https://lucid.app/lucidchart/41534342-55ce-4dd6-b297-8776e1c742b3/edit?viewport_loc=-1962%2C676%2C5576%2C2527%2C0_0&invitationId=inv_6c5f1b7a-fa61-4caf-87f6-158c05d6c9c9
